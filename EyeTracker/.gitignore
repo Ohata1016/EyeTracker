@@ -1,0 +1,7 @@
+#Ignore thumbnails created by windows
+Thumbs.db
+#Ignore thumbnails created by Mac
+.DS_Store
+*.log
+bin/
+img/
